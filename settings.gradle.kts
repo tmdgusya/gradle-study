@@ -9,3 +9,4 @@
 
 rootProject.name = "multi-module-kotlin"
 include("app")
+include("sub-domain")
